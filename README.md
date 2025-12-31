@@ -1,4 +1,4 @@
-# 💫 About Me
+# whoami
 ```Java
 public class Profile {
     private static final String NAME = "Thore";
